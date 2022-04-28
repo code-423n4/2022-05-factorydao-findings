@@ -1,4 +1,4 @@
-# Metapriest Contest
+# FactoryDAO Contest
 
 Unless otherwise discussed, this repo will be made public after contest completion, sponsor review, judging, and two-week issue mitigation window.
 
