@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "AuditsAreUS",
+  "address": "0x8f6e76F3059DcFAC435bBb7029294eB6ceEcab23",
+  "risk": "2",
+  "title": "DoS: Attacker may significantly increase the cost of `withdrawExcessRewards()` by creating a significant number of excess receipts",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/54"
+}
