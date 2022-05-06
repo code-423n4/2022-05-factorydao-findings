@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "AuditsAreUS",
+  "address": "0x8f6e76F3059DcFAC435bBb7029294eB6ceEcab23",
+  "risk": "2",
+  "title": "`MerkleDropFactory.depositTokens()`  does not require the tree to exist",
+  "issueId": 59,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/59"
+}
