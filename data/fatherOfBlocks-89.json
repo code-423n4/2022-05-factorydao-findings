@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "fatherOfBlocks",
+  "address": "0xd5a2686B02A15b5269848DEe6e913F07F459782E",
+  "risk": "2",
+  "title": "globalTax Per Capita could be set to an incorrect value in the constructor.",
+  "issueId": 89,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/89"
+}
