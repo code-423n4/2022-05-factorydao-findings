@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "3",
+  "title": "ERC20 that doesn't return bool on transfers etc. will not work",
+  "issueId": 75,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/75"
+}
