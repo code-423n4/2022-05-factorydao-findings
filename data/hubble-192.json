@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "hubble",
+  "address": "0xc343235Ec8143EAB788d706165D50082833FF137",
+  "risk": "2",
+  "title": "If multiple reward tokens configured, its possible to block withdrawTaxes of all rewardTokens",
+  "issueId": 192,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/192"
+}
