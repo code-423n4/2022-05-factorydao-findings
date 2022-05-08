@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "leastwood",
+  "address": "0x28235de0121700a462b5098cff7d3615b050551f",
+  "risk": "3",
+  "title": "`PermissionlessBasicPoolFactory.sol` Does Not Support Reward Tokens With Decimals Other Than 18",
+  "issueId": 244,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/244"
+}
