@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "wuwe1",
+  "address": "0xA8022F2b43e4823B8286601329504001f8A78652",
+  "risk": "3",
+  "title": "Every funds except native token in PermissionlessBasicPoolFactory can be drain by anyone",
+  "issueId": 241,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/241"
+}
