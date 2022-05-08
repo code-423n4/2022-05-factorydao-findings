@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "`MerkleResistor.sol#addMerkleTree` Lack of ways to retrieve the funds can potentially cause the funds of misconfigured trees to be frozen in the contract",
+  "issueId": 152,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/152"
+}
