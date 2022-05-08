@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "GimelSec",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "3",
+  "title": "`fundPool` doesn't consider the ERC20 transfer fee, resulting in insufficient tokens of contract and affecting other pools",
+  "issueId": 173,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/173"
+}
