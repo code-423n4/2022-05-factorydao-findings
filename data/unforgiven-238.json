@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "Fund loss in passThruGate() of FixedPricePassThruGate becasue only some portion of user payed amount has been used and the rest of it don't returned to user",
+  "issueId": 238,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/238"
+}
