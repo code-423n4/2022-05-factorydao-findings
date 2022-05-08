@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "ych18",
+  "address": "0x02435fb305D2BBA609E044279C50498Abe279380",
+  "risk": "3",
+  "title": "A wrong calculation value in `getMaximumRewards()` and `getRewards()` for non-standard decimals values tokens",
+  "issueId": 112,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/112"
+}
