@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "kenzo",
+  "address": "0x611DaBF15f0077c64fDB5067376Ad593191e65F3",
+  "risk": "2",
+  "title": "Excess ether will be locked in FixedPricePassThruGate",
+  "issueId": 116,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/116"
+}
