@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "3",
+  "title": "Not checking returned bool by transfer can lead to loss of funds",
+  "issueId": 254,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/254"
+}
