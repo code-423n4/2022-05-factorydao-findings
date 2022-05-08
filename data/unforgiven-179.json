@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "function withdraw() of PermissionlessBasicPoolFactory will process receiptId==0 and emit WithdrawalOccurred even so that receiptId is not initialized ",
+  "issueId": 179,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/179"
+}
