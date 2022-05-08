@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "GimelSec",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "3",
+  "title": "Transfer token should check the return value",
+  "issueId": 171,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/171"
+}
