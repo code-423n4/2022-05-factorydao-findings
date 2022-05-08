@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "2",
+  "title": "Creator of the contract could front run tax per capita to 100% of Yield rewards",
+  "issueId": 262,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/262"
+}
