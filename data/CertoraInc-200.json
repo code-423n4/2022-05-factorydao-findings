@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "CertoraInc",
+  "address": "0x4bCc7c54E4e8E9a563B92272A51bBFb5d233de32",
+  "risk": "2",
+  "title": "Fee on transfer tokens cause wrong calculations ",
+  "issueId": 200,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/200"
+}
