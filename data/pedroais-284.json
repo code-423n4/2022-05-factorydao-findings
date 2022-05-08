@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "2",
+  "title": "Attacker could make deposits of 1 wei in the yield contract to prevent excess rewards from being withdrawn",
+  "issueId": 284,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/284"
+}
