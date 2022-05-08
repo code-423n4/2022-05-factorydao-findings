@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "constructor of PermissionlessBasicPoolFactory allow globalBeneficiary to be 0x0 which will cause fund lose in withdrawTaxes()",
+  "issueId": 185,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/185"
+}
