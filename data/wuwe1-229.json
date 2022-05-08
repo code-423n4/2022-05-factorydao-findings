@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "wuwe1",
+  "address": "0xA8022F2b43e4823B8286601329504001f8A78652",
+  "risk": "2",
+  "title": "USDT or other ERC20 incompatible token can not be used as reward token",
+  "issueId": 229,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/229"
+}
