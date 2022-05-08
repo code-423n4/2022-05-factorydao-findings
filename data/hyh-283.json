@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "hyh",
+  "address": "0x859e1Dfb430A7156fAEF11947F2FC2a3C34B733A",
+  "risk": "3",
+  "title": "PermissionlessBasicPoolFactory use hard coded decimals of 18",
+  "issueId": 283,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/283"
+}
