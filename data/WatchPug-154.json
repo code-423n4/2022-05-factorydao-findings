@@ -1,0 +1,9 @@
+{
+  "contest": 119,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "2",
+  "title": "`FixedPricePassThruGate.sol` All the `msg.value` should be pass thru to `gate.beneficiary` instead of `gate.ethCost`",
+  "issueId": 154,
+  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/154"
+}
