@@ -1,9 +1,0 @@
-{
-  "contest": 119,
-  "handle": "mtz",
-  "address": "0x602411A87ff854A9565e72A88a53c8b17dA3509d",
-  "risk": "3",
-  "title": "Reward Token Transfer Failure Can Lead to Loss of Deposit in PermissionlessBasicPoolFactory",
-  "issueId": 143,
-  "issueUrl": "https://github.com/code-423n4/2022-05-factorydao-findings/issues/143"
-}
