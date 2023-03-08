@@ -1,3 +1,11 @@
+---
+sponsor: "FactoryDAO"
+slug: "2022-05-factorydao"
+date: "2022-08-02"
+title: "FactoryDAO contest"
+findings: "https://github.com/code-423n4/2022-05-factorydao-findings/issues"
+contest: 119
+---
 
 # Overview
 
